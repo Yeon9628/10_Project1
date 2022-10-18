@@ -58,7 +58,7 @@ h5 {
 }
 
 @media screen and (max-width: 992px) {
-  .main-iphone{
+  .main-iphone {
     float: none;
     margin: auto;
     width: 260px;
@@ -144,7 +144,7 @@ h5 {
   height: 350px;
   position: relative;
   background-size: cover;
-  background-image: url(../img/portfolio-1.jpg);
+  background-image: url(/img/portfolio-1.jpg);
 }
 
 .portfolio-container {
@@ -177,7 +177,7 @@ h5 {
   h5 {
     margin-top: 70px;
   }
-  
+
   .portfolio-item1 {
     width: 100%;
     float: none;
