@@ -144,7 +144,7 @@ h5 {
   height: 350px;
   position: relative;
   background-size: cover;
-  background-image: url(/img/portfolio-1.jpg);
+  background-image: url(./img/portfolio-1.jpg);
 }
 
 .portfolio-container {
