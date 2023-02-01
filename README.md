@@ -1,7 +1,7 @@
 ### Wab
 
 ![Wab-pc](https://user-images.githubusercontent.com/106020653/215990770-77eaad47-28eb-4628-a7db-9b1eb4d4707d.PNG)
-##### html, css를 이용해 웹 페이지를 구현 해 봤습니다.
+##### html, css를 이용해 웹 페이지를 만들었습니다.
 
 #
 
